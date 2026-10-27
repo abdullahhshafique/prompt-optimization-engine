@@ -7,9 +7,9 @@
 **Built by [Abdullah Shafique](https://www.linkedin.com/in/aadi-abdullah)**  
 AI Engineer · FastAPI · Evolutionary Algorithms
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20App-4f6ef7?style=for-the-badge&logo=vercel)](https://aadi-abdullah.github.io/prompt-optimization-engine/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20App-4f6ef7?style=for-the-badge&logo=vercel)](https://abdullahhshafique.github.io/prompt-optimization-engine/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-aadi--abdullah-181717?logo=github)](https://github.com/aadi-abdullah)
+[![GitHub](https://img.shields.io/badge/GitHub-aadi--abdullah-181717?logo=github)](https://github.com/abdullahhshafique)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aadi--abdullah-0A66C2?logo=linkedin)](https://www.linkedin.com/in/aadi-abdullah)
 
@@ -23,7 +23,7 @@ The Prompt Optimization Engine automates the entire prompt improvement workflow 
 
 No guesswork. No endless tweaking. Just better prompts, automatically.
 
-**Live Demo:** [aadi-abdullah.github.io/prompt-optimization-engine](https://aadi-abdullah.github.io/prompt-optimization-engine/)
+**Live Demo:** [abdullahhshafique.github.io/prompt-optimization-engine](https://abdullahhshafique.github.io/prompt-optimization-engine/)
 
 ---
 
@@ -31,7 +31,7 @@ No guesswork. No endless tweaking. Just better prompts, automatically.
 
 ![App Screenshot](assets/demo.png)
 
-**Try it live →** [aadi-abdullah.github.io/prompt-optimization-engine](https://aadi-abdullah.github.io/prompt-optimization-engine/)
+**Try it live →** [abdullahhshafique.github.io/prompt-optimization-engine](https://abdullahhshafique.github.io/prompt-optimization-engine/)
 
 ---
 
@@ -130,7 +130,7 @@ The project is fully deployed and accessible:
 
 | Service | URL |
 |---------|-----|
-| **Frontend** | [aadi-abdullah.github.io/prompt-optimization-engine](https://aadi-abdullah.github.io/prompt-optimization-engine/) |
+| **Frontend** | [abdullahhshafique.github.io/prompt-optimization-engine](https://abdullahhshafique.github.io/prompt-optimization-engine/) |
 | **Backend API** | [prompt-optimization-engine.up.railway.app](https://prompt-optimization-engine.up.railway.app) |
 | **API Documentation** | [prompt-optimization-engine.up.railway.app/docs](https://prompt-optimization-engine.up.railway.app/docs) |
 | **Health Check** | [prompt-optimization-engine.up.railway.app/api/health](https://prompt-optimization-engine.up.railway.app/api/health) |
@@ -146,7 +146,7 @@ The project is fully deployed and accessible:
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/aadi-abdullah/prompt-optimization-engine.git
+git clone https://github.com/abdullahhshafique/prompt-optimization-engine.git
 cd prompt-optimization-engine
 
 # 2. Backend setup
@@ -332,7 +332,7 @@ I'm an AI Engineer with a background in design — I spent 6 years as a professi
 
 **Currently open to AI engineering internships and junior roles.**
 
-→ [LinkedIn](https://www.linkedin.com/in/aadi-abdullah) · [GitHub](https://github.com/aadi-abdullah) · abdullahshafique2019@gmail.com
+→ [LinkedIn](https://www.linkedin.com/in/aadi-abdullah) · [GitHub](https://github.com/abdullahhshafique) · abdullahshafique2019@gmail.com
 
 ---
 
